@@ -1,7 +1,6 @@
 theme: minima
 
-author:
-  name: Joe Fyfield
+author: Joe Fyfield
 
 minima:
   date_format: "%e %B %Y"
